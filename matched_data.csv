@@ -1,0 +1,2067 @@
+,counties,index
+0,"Blount County, AL",140
+1,"Montgomery County, AL",143
+2,"Mobile County, AL",153
+3,"Montgomery County, AL",1108
+4,"Tuscaloosa County, AL",158
+5,"Jefferson County, AL",1051
+6,"Etowah County, AL",2065
+7,"Mobile County, AL",1008
+8,NA,1727
+9,"Mobile County, AL",1732
+10,"Talladega County, AL",991
+11,"Dallas County, AL",1674
+12,"Dallas County, AL",1163
+13,"Jefferson County, AL",1110
+14,"Jefferson County, AL",1171
+15,"Jefferson County, AL",96
+16,"Montgomery County, AL",1503
+17,"Mobile County, AL",100
+18,"Mobile County, AL",1388
+19,"Tuscaloosa County, AL",1386
+20,"Jefferson County, AL",1385
+21,"Chambers County, AL",1419
+22,"Jefferson County, AL",1383
+23,"Montgomery County, AL",110
+24,"Jefferson County, AL",1281
+25,"Dale County, AL",1602
+26,"Tuscaloosa County, AL",1232
+27,"Jefferson County, AL",63
+28,"Mobile County, AL",1206
+29,"Madison County, AL",1348
+30,"Morgan County, AL",58
+31,"Montgomery County, AL",965
+32,NA,548
+33,"Jefferson County, AL",486
+34,"Baldwin County, AL",1980
+35,"Mobile County, AL",343
+36,"Mobile County, AL",2050
+37,"Tallapoosa County, AL",330
+38,"Mobile County, AL",511
+39,"Madison County, AL",547
+40,"Madison County, AL",1953
+41,"Montgomery County, AL",324
+42,"Jefferson County, AL",1937
+43,"Houston County, AL",2028
+44,"Mobile County, AL",269
+45,"Jefferson County, AL",368
+46,"Autauga County, AL",600
+47,"Mobile County, AL",611
+48,"Calhoun County, AL",679
+49,"Jefferson County, AL",714
+50,"Jefferson County, AL",1861
+51,"Jefferson County, AL",772
+52,"Mobile County, AL",1845
+53,"Jefferson County, AL",783
+54,"Mobile County, AL",11
+55,"Montgomery County, AL",216
+56,"Jefferson County, AL",1804
+57,"Madison County, AL",198
+58,"Hale County, AL",317
+59,"Jefferson County, AL",255
+60,"Mobile County, AL",416
+61,"Anchorage Borough, AK",188
+62,"Anchorage Borough, AK",903
+63,"Bethel Census Area, AK",974
+64,"Matanuska-Susitna Borough, AK",1978
+65,"Anchorage Borough, AK",734
+66,"Anchorage Borough, AK",113
+67,"Cochise County, AZ",274
+68,"Yavapai County, AZ",1258
+69,"Maricopa County, AZ",1193
+70,"Pima County, AZ",1117
+71,"Maricopa County, AZ",509
+72,"Maricopa County, AZ",621
+73,"Maricopa County, AZ",1876
+74,"Maricopa County, AZ",880
+75,"Cochise County, AZ",889
+76,"Pima County, AZ",891
+77,NA,1626
+78,"Maricopa County, AZ",1983
+79,"Pima County, AZ",0
+80,"Maricopa County, AZ",403
+81,"Maricopa County, AZ",456
+82,"Maricopa County, AZ",373
+83,"Maricopa County, AZ",1458
+84,"Pima County, AZ",1541
+85,"Mohave County, AZ",2000
+86,"Lafayette County, AR",954
+87,"Lafayette County, AR",1401
+88,"Pulaski County, AR",1379
+89,"Jefferson County, AR",1352
+90,"Cleburne County, AR",131
+91,"Independence County, AR",382
+92,"Pulaski County, AR",412
+93,"Yell County, AR",1259
+94,"Craighead County, AR",1250
+95,"Benton County, AR",510
+96,"Pulaski County, AR",1199
+97,"Craighead County, AR",950
+98,"Nevada County, AR",138
+99,"Pulaski County, AR",982
+100,"Pulaski County, AR",189
+101,"Saline County, AR",378
+102,"Pulaski County, AR",1476
+103,"Pulaski County, AR",307
+104,"Mississippi County, AR",1886
+105,"Pulaski County, AR",2064
+106,"Jefferson County, AR",1560
+107,"Pulaski County, AR",1759
+108,"Pulaski County, AR",1839
+109,"Benton County, AR",1851
+110,NA,1604
+111,"Jefferson County, AR",2006
+112,"Garland County, AR",2034
+113,"Jefferson County, AR",1617
+114,"Jefferson County, AR",1661
+115,"Fresno County, CA",465
+116,"Merced County, CA",786
+117,"Alameda County, CA",784
+118,"Santa Clara County, CA",776
+119,"Butte County, CA",775
+120,"Alameda County, CA",773
+121,"Fresno County, CA",1848
+122,"Kern County, CA",737
+123,"Los Angeles County, CA",790
+124,"San Francisco County, CA",340
+125,"San Bernardino County, CA",728
+126,"Fresno County, CA",726
+127,"Orange County, CA",719
+128,"Santa Clara County, CA",1875
+129,"Solano County, CA",707
+130,"Los Angeles County, CA",704
+131,"Los Angeles County, CA",691
+132,"Los Angeles County, CA",755
+133,"Los Angeles County, CA",799
+134,"Santa Cruz County, CA",825
+135,"San Francisco County, CA",2039
+136,"San Bernardino County, CA",321
+137,"Monterey County, CA",323
+138,"Los Angeles County, CA",2060
+139,"Los Angeles County, CA",878
+140,"San Diego County, CA",877
+141,"Contra Costa County, CA",876
+142,"San Francisco County, CA",874
+143,"Ventura County, CA",873
+144,"Sacramento County, CA",811
+145,"San Diego County, CA",870
+146,"San Diego County, CA",869
+147,"San Diego County, CA",865
+148,"Los Angeles County, CA",857
+149,"Los Angeles County, CA",853
+150,"Los Angeles County, CA",1813
+151,"Los Angeles County, CA",845
+152,"Sacramento County, CA",843
+153,"Los Angeles County, CA",835
+154,"San Diego County, CA",2058
+155,"Alameda County, CA",666
+156,"Los Angeles County, CA",644
+157,"Los Angeles County, CA",646
+158,"Shasta County, CA",2022
+159,"Los Angeles County, CA",562
+160,"San Francisco County, CA",558
+161,"Merced County, CA",411
+162,"Los Angeles County, CA",551
+163,"Los Angeles County, CA",1912
+164,"Sacramento County, CA",1916
+165,"Contra Costa County, CA",440
+166,"Alameda County, CA",568
+167,"Contra Costa County, CA",1968
+168,"Monterey County, CA",538
+169,"San Diego County, CA",537
+170,"Los Angeles County, CA",531
+171,"El Dorado County, CA",530
+172,"Orange County, CA",1975
+173,"Riverside County, CA",1977
+174,"Kern County, CA",496
+175,"Alameda County, CA",492
+176,"Los Angeles County, CA",542
+177,NA,654
+178,"Los Angeles County, CA",571
+179,"Orange County, CA",589
+180,"San Bernardino County, CA",471
+181,"Butte County, CA",622
+182,"Kings County, CA",357
+183,"Alameda County, CA",615
+184,"Ventura County, CA",612
+185,"Los Angeles County, CA",1883
+186,"Fresno County, CA",610
+187,"Sacramento County, CA",604
+188,"Monterey County, CA",588
+189,NA,603
+190,NA,1885
+191,"Merced County, CA",899
+192,"Santa Clara County, CA",599
+193,"Ventura County, CA",597
+194,"Ventura County, CA",596
+195,"San Bernardino County, CA",2026
+196,"Stanislaus County, CA",592
+197,"Alameda County, CA",591
+198,"Los Angeles County, CA",601
+199,"Orange County, CA",1807
+200,"Alameda County, CA",1486
+201,"Santa Clara County, CA",913
+202,"Los Angeles County, CA",1276
+203,"Los Angeles County, CA",1266
+204,"Solano County, CA",1265
+205,"Los Angeles County, CA",1264
+206,"Los Angeles County, CA",1261
+207,"Los Angeles County, CA",1601
+208,"Orange County, CA",1254
+209,"Contra Costa County, CA",1610
+210,NA,1228
+211,"Los Angeles County, CA",1624
+212,"Stanislaus County, CA",1594
+213,"San Joaquin County, CA",1198
+214,"Ventura County, CA",1187
+215,NA,1178
+216,"Alameda County, CA",1628
+217,"Tulare County, CA",1658
+218,"Los Angeles County, CA",1159
+219,NA,1155
+220,"San Bernardino County, CA",1675
+221,"Los Angeles County, CA",1153
+222,"Los Angeles County, CA",1152
+223,"San Bernardino County, CA",1676
+224,"Orange County, CA",1191
+225,"Riverside County, CA",1311
+226,"Contra Costa County, CA",1589
+227,"Los Angeles County, CA",1318
+228,"San Mateo County, CA",1481
+229,"Los Angeles County, CA",1480
+230,"Los Angeles County, CA",1490
+231,"Los Angeles County, CA",1474
+232,"Orange County, CA",1459
+233,"Sonoma County, CA",1434
+234,"Sonoma County, CA",1428
+235,"Los Angeles County, CA",1491
+236,"San Diego County, CA",1415
+237,"Los Angeles County, CA",1499
+238,"Los Angeles County, CA",1413
+239,"Los Angeles County, CA",1501
+240,"Los Angeles County, CA",1391
+241,"Los Angeles County, CA",1505
+242,"Los Angeles County, CA",1509
+243,"Los Angeles County, CA",1518
+244,"Los Angeles County, CA",1526
+245,"Los Angeles County, CA",1378
+246,"Los Angeles County, CA",1561
+247,"Tuolumne County, CA",1583
+248,"Los Angeles County, CA",1332
+249,"San Francisco County, CA",1588
+250,"Los Angeles County, CA",1328
+251,"Los Angeles County, CA",1147
+252,NA,909
+253,"Los Angeles County, CA",1146
+254,"Napa County, CA",1124
+255,"Riverside County, CA",987
+256,"Los Angeles County, CA",986
+257,NA,983
+258,"Alameda County, CA",1741
+259,"Sacramento County, CA",980
+260,"Fresno County, CA",1750
+261,NA,970
+262,"Los Angeles County, CA",969
+263,"Santa Barbara County, CA",1758
+264,"Alameda County, CA",959
+265,"San Bernardino County, CA",988
+266,"Los Angeles County, CA",958
+267,"Alameda County, CA",1767
+268,"Santa Clara County, CA",1770
+269,"Los Angeles County, CA",1776
+270,"San Mateo County, CA",949
+271,"Los Angeles County, CA",945
+272,"Los Angeles County, CA",943
+273,"Los Angeles County, CA",1487
+274,"Los Angeles County, CA",935
+275,"Los Angeles County, CA",932
+276,"Los Angeles County, CA",1791
+277,"Sacramento County, CA",956
+278,"Riverside County, CA",1738
+279,"San Mateo County, CA",996
+280,"Fresno County, CA",1723
+281,"Los Angeles County, CA",1122
+282,"Merced County, CA",1121
+283,"Sacramento County, CA",1119
+284,"San Bernardino County, CA",308
+285,"San Diego County, CA",1683
+286,"San Bernardino County, CA",1692
+287,"Los Angeles County, CA",1101
+288,"Los Angeles County, CA",1095
+289,"Sacramento County, CA",1090
+290,"San Mateo County, CA",1701
+291,"Sacramento County, CA",1088
+292,"Los Angeles County, CA",1083
+293,NA,1063
+294,"Los Angeles County, CA",1061
+295,"Santa Clara County, CA",1056
+296,"Los Angeles County, CA",1702
+297,"Los Angeles County, CA",1043
+298,"Stanislaus County, CA",1720
+299,"Los Angeles County, CA",1031
+300,NA,1027
+301,"Alameda County, CA",1026
+302,"San Bernardino County, CA",1019
+303,"Los Angeles County, CA",1017
+304,"Yuba County, CA",1125
+305,"San Bernardino County, CA",938
+306,"Los Angeles County, CA",1033
+307,"Santa Clara County, CA",204
+308,"Sonoma County, CA",76
+309,"Los Angeles County, CA",279
+310,"Los Angeles County, CA",266
+311,"Contra Costa County, CA",32
+312,"San Joaquin County, CA",73
+313,"San Francisco County, CA",209
+314,"Tulare County, CA",15
+315,"Los Angeles County, CA",302
+316,"Ventura County, CA",37
+317,"San Mateo County, CA",160
+318,"Alameda County, CA",66
+319,"Los Angeles County, CA",197
+320,"Los Angeles County, CA",238
+321,"Los Angeles County, CA",196
+322,"Los Angeles County, CA",70
+323,"Tehama County, CA",292
+324,"Monterey County, CA",253
+325,"San Diego County, CA",111
+326,"Los Angeles County, CA",69
+327,"Los Angeles County, CA",102
+328,"Santa Barbara County, CA",174
+329,"Santa Clara County, CA",288
+330,"Denver County, CO",743
+331,"Arapahoe County, CO",918
+332,"Douglas County, CO",1966
+333,"Arapahoe County, CO",83
+334,"El Paso County, CO",1437
+335,"Pueblo County, CO",365
+336,"Arapahoe County, CO",534
+337,"El Paso County, CO",1786
+338,"Arapahoe County, CO",545
+339,"Adams County, CO",828
+340,"Larimer County, CO",594
+341,"Douglas County, CO",126
+342,"El Paso County, CO",115
+343,"Denver County, CO",890
+344,"Jefferson County, CO",1769
+345,"El Paso County, CO",1736
+346,"Denver County, CO",1747
+347,"Pueblo County, CO",1951
+348,"Denver County, CO",289
+349,NA,674
+350,"Arapahoe County, CO",1358
+351,"Arapahoe County, CO",466
+352,"Arapahoe County, CO",137
+353,"Denver County, CO",213
+354,"Weld County, CO",1622
+355,"Larimer County, CO",337
+356,"Mesa County, CO",338
+357,"Arapahoe County, CO",144
+358,"Arapahoe County, CO",1869
+359,"New Haven County, CT",1713
+360,"Fairfield County, CT",498
+361,"Middlesex County, CT",1278
+362,"Hartford County, CT",1065
+363,"Hartford County, CT",112
+364,"New Haven County, CT",1595
+365,"Fairfield County, CT",555
+366,"Hartford County, CT",1070
+367,"Fairfield County, CT",1387
+368,"Hartford County, CT",396
+369,"New Haven County, CT",463
+370,"New Haven County, CT",620
+371,"New Haven County, CT",1299
+372,"New Haven County, CT",1416
+373,"Fairfield County, CT",1484
+374,"Hartford County, CT",1293
+375,"New Haven County, CT",52
+376,"Fairfield County, CT",567
+377,"Fairfield County, CT",180
+378,"Fairfield County, CT",1620
+379,"New Haven County, CT",1800
+380,"Hartford County, CT",639
+381,"Hartford County, CT",1368
+382,"New Castle County, DE",1559
+383,"Kent County, DE",379
+384,"Kent County, DE",212
+385,"Kent County, DE",331
+386,"Kent County, DE",1421
+387,"New Castle County, DE",579
+388,"New Castle County, DE",161
+389,"Kent County, DE",1690
+390,"New Castle County, DE",703
+391,"New Castle County, DE",716
+392,"New Castle County, DE",1073
+393,"District of Columbia County, DC",122
+394,"District of Columbia County, DC",1050
+395,NA,1399
+396,"District of Columbia County, DC",1058
+397,"District of Columbia County, DC",1057
+398,"District of Columbia County, DC",1957
+399,"District of Columbia County, DC",119
+400,"District of Columbia County, DC",1859
+401,"District of Columbia County, DC",797
+402,"District of Columbia County, DC",1389
+403,"District of Columbia County, DC",1197
+404,"District of Columbia County, DC",697
+405,"District of Columbia County, DC",2053
+406,"District of Columbia County, DC",26
+407,"District of Columbia County, DC",681
+408,"District of Columbia County, DC",1836
+409,"District of Columbia County, DC",675
+410,"District of Columbia County, DC",1565
+411,"District of Columbia County, DC",1564
+412,"District of Columbia County, DC",990
+413,"District of Columbia County, DC",1943
+414,"District of Columbia County, DC",1563
+415,"District of Columbia County, DC",999
+416,"District of Columbia County, DC",1524
+417,"District of Columbia County, DC",1923
+418,"District of Columbia County, DC",1075
+419,"District of Columbia County, DC",2014
+420,"District of Columbia County, DC",1072
+421,"District of Columbia County, DC",1018
+422,"District of Columbia County, DC",808
+423,"District of Columbia County, DC",1022
+424,"District of Columbia County, DC",824
+425,"District of Columbia County, DC",1097
+426,"District of Columbia County, DC",1042
+427,"Duval County, FL",512
+428,"Walton County, FL",1621
+429,"Duval County, FL",733
+430,"Palm Beach County, FL",1558
+431,"Volusia County, FL",1644
+432,"Miami-Dade County, FL",1555
+433,NA,934
+434,"Marion County, FL",243
+435,NA,1818
+436,"Walton County, FL",722
+437,"Duval County, FL",1609
+438,"Miami-Dade County, FL",875
+439,"Duval County, FL",1606
+440,"Lake County, FL",931
+441,"Seminole County, FL",713
+442,NA,1355
+443,"Miami-Dade County, FL",941
+444,"Duval County, FL",1573
+445,"Hillsborough County, FL",688
+446,"Volusia County, FL",1342
+447,"Miami-Dade County, FL",1335
+448,"Lee County, FL",497
+449,"Duval County, FL",1599
+450,"Duval County, FL",30
+451,"Duval County, FL",957
+452,"Walton County, FL",694
+453,"Duval County, FL",1608
+454,"Miami-Dade County, FL",930
+455,"Orange County, FL",640
+456,"Broward County, FL",1649
+457,"Duval County, FL",564
+458,"Palm Beach County, FL",888
+459,"Pinellas County, FL",583
+460,"Duval County, FL",215
+461,"Orange County, FL",1433
+462,"Palm Beach County, FL",217
+463,"Palm Beach County, FL",47
+464,"Broward County, FL",261
+465,"Duval County, FL",1390
+466,"Pasco County, FL",901
+467,"Broward County, FL",260
+468,"Broward County, FL",595
+469,"Brevard County, FL",1439
+470,"Palm Beach County, FL",1452
+471,"Palm Beach County, FL",200
+472,"Escambia County, FL",1456
+473,"Broward County, FL",1376
+474,NA,800
+475,"Hillsborough County, FL",912
+476,"Collier County, FL",51
+477,"Orange County, FL",1482
+478,"Miami-Dade County, FL",1507
+479,"Orange County, FL",769
+480,"Duval County, FL",768
+481,"Orange County, FL",527
+482,NA,1801
+483,"Palm Beach County, FL",1370
+484,"Miami-Dade County, FL",1414
+485,"Duval County, FL",649
+486,"Palm Beach County, FL",1814
+487,"Miami-Dade County, FL",960
+488,"Duval County, FL",1591
+489,"Miami-Dade County, FL",1963
+490,"Bay County, FL",363
+491,"Volusia County, FL",1988
+492,"Miami-Dade County, FL",1003
+493,"Seminole County, FL",1005
+494,"Miami-Dade County, FL",449
+495,"Columbia County, FL",1956
+496,"Hillsborough County, FL",1249
+497,"Palm Beach County, FL",2033
+498,"Duval County, FL",2031
+499,"Seminole County, FL",1920
+500,"Lake County, FL",1007
+501,"Palm Beach County, FL",1013
+502,"Duval County, FL",402
+503,"Duval County, FL",124
+504,"Marion County, FL",417
+505,"Miami-Dade County, FL",1039
+506,"Miami-Dade County, FL",8
+507,"Palm Beach County, FL",1021
+508,"Miami-Dade County, FL",381
+509,"Lee County, FL",1225
+510,"Miami-Dade County, FL",434
+511,"Seminole County, FL",433
+512,"Miami-Dade County, FL",1272
+513,"Miami-Dade County, FL",354
+514,"Miami-Dade County, FL",423
+515,"Duval County, FL",1069
+516,"Citrus County, FL",372
+517,NA,1291
+518,"Orange County, FL",1898
+519,"Pinellas County, FL",1231
+520,"Palm Beach County, FL",978
+521,"Palm Beach County, FL",1154
+522,"Duval County, FL",136
+523,"Duval County, FL",1870
+524,"Duval County, FL",973
+525,"Lake County, FL",291
+526,"Lee County, FL",1127
+527,"Miami-Dade County, FL",485
+528,"Miami-Dade County, FL",1103
+529,"Duval County, FL",1241
+530,"Orange County, FL",474
+531,"Orange County, FL",141
+532,"Pasco County, FL",128
+533,"Pinellas County, FL",1243
+534,"Duval County, FL",1203
+535,"Hillsborough County, FL",1236
+536,"Duval County, FL",1209
+537,"Broward County, FL",23
+538,"Orange County, FL",467
+539,"Franklin County, FL",329
+540,"Miami-Dade County, FL",967
+541,"Collier County, FL",399
+542,"Miami-Dade County, FL",2041
+543,"Hendry County, FL",1895
+544,"Lake County, FL",1210
+545,"Seminole County, FL",1864
+546,"Palm Beach County, FL",483
+547,"Fulton County, GA",294
+548,"Clayton County, GA",1981
+549,"Baldwin County, GA",293
+550,"Colquitt County, GA",383
+551,NA,17
+552,"Richmond County, GA",390
+553,"Whitfield County, GA",257
+554,"Fulton County, GA",1996
+555,"Fulton County, GA",1460
+556,"Chatham County, GA",1064
+557,"Chatham County, GA",1852
+558,NA,78
+559,"Douglas County, GA",309
+560,"Lowndes County, GA",310
+561,"DeKalb County, GA",130
+562,"Dougherty County, GA",1574
+563,"Fulton County, GA",129
+564,"Liberty County, GA",684
+565,"DeKalb County, GA",151
+566,"Clayton County, GA",1618
+567,"Richmond County, GA",1215
+568,"Fulton County, GA",1098
+569,"Fulton County, GA",242
+570,"Fulton County, GA",84
+571,"Fulton County, GA",665
+572,"Fulton County, GA",341
+573,"Fulton County, GA",235
+574,"Gwinnett County, GA",2029
+575,"Forsyth County, GA",1646
+576,"Columbia County, GA",1092
+577,"Clayton County, GA",736
+578,"Fulton County, GA",645
+579,"Cobb County, GA",2019
+580,"Fulton County, GA",762
+581,"Bibb County, GA",2018
+582,"Fulton County, GA",1081
+583,"Bibb County, GA",2035
+584,"Spalding County, GA",233
+585,"Fulton County, GA",108
+586,"Douglas County, GA",1735
+587,"Appling County, GA",195
+588,"DeKalb County, GA",469
+589,"Fulton County, GA",425
+590,"Chatham County, GA",894
+591,"Chatham County, GA",995
+592,"Jones County, GA",1894
+593,"Cobb County, GA",173
+594,"Fulton County, GA",1269
+595,"Henry County, GA",1810
+596,"Rockdale County, GA",106
+597,"DeKalb County, GA",1936
+598,"Carroll County, GA",925
+599,"Fulton County, GA",448
+600,"Fulton County, GA",1794
+601,"Fulton County, GA",1930
+602,"Jasper County, GA",914
+603,"Rockdale County, GA",915
+604,"Emanuel County, GA",1785
+605,"Fulton County, GA",917
+606,"Fulton County, GA",1356
+607,"DeKalb County, GA",985
+608,"Fulton County, GA",427
+609,"Chatham County, GA",581
+610,"Banks County, GA",505
+611,"Rockdale County, GA",404
+612,"Fulton County, GA",491
+613,"DeKalb County, GA",481
+614,"Gwinnett County, GA",181
+615,"Cobb County, GA",1742
+616,NA,1047
+617,"Fulton County, GA",494
+618,"DeKalb County, GA",1739
+619,"Honolulu County, HI",524
+620,NA,1220
+621,NA,457
+622,"Jefferson County, ID",1697
+623,"Jefferson County, ID",1696
+624,"Ada County, ID",1553
+625,"Canyon County, ID",919
+626,"Twin Falls County, ID",362
+627,"Jefferson County, ID",1832
+628,"Peoria County, IL",1577
+629,"Cook County, IL",132
+630,"Cook County, IL",1325
+631,"Cook County, IL",1106
+632,"Cook County, IL",1339
+633,"Madison County, IL",1567
+634,"Cook County, IL",1112
+635,"Cook County, IL",1109
+636,"Cook County, IL",732
+637,"Lee County, IL",237
+638,"Winnebago County, IL",1322
+639,"Cook County, IL",1212
+640,"Kane County, IL",922
+641,"Cook County, IL",1107
+642,"Cook County, IL",920
+643,"Cook County, IL",1519
+644,"McHenry County, IL",744
+645,"Lake County, IL",120
+646,"Cook County, IL",1464
+647,"Cook County, IL",121
+648,"Cook County, IL",125
+649,"Sangamon County, IL",1067
+650,"Rock Island County, IL",884
+651,"Cook County, IL",831
+652,"Cook County, IL",1447
+653,"Cook County, IL",1446
+654,"Madison County, IL",1443
+655,"Cook County, IL",1248
+656,"Cook County, IL",1247
+657,"Cook County, IL",1246
+658,"Cook County, IL",1424
+659,"Cook County, IL",844
+660,"Kankakee County, IL",88
+661,"Cook County, IL",805
+662,"Jackson County, IL",803
+663,"Cook County, IL",203
+664,"Cook County, IL",1273
+665,"Cook County, IL",1224
+666,"Cook County, IL",1520
+667,"Cook County, IL",214
+668,"Cook County, IL",761
+669,"Peoria County, IL",763
+670,"Cook County, IL",1226
+671,"Cook County, IL",1547
+672,"Cook County, IL",1028
+673,NA,781
+674,NA,1498
+675,NA,1492
+676,NA,1078
+677,NA,1488
+678,NA,1077
+679,NA,1071
+680,NA,896
+681,NA,1438
+682,NA,1150
+683,NA,1596
+684,NA,477
+685,NA,284
+686,NA,1695
+687,NA,1888
+688,NA,458
+689,NA,624
+690,NA,1901
+691,NA,1680
+692,NA,1914
+693,NA,1678
+694,NA,1918
+695,NA,1743
+696,NA,1944
+697,NA,637
+698,NA,1657
+699,NA,1979
+700,NA,358
+701,NA,1873
+702,NA,1856
+703,NA,500
+704,NA,1842
+705,NA,1751
+706,NA,576
+707,NA,577
+708,NA,578
+709,NA,1764
+710,NA,39
+711,NA,1729
+712,NA,1772
+713,NA,345
+714,NA,1725
+715,NA,1778
+716,NA,1779
+717,NA,1593
+718,NA,1808
+719,NA,1707
+720,NA,1833
+721,NA,1838
+722,NA,503
+723,NA,1721
+724,NA,2036
+725,NA,573
+726,NA,4
+727,NA,67
+728,NA,2038
+729,NA,314
+730,NA,1641
+731,NA,2057
+732,NA,662
+733,NA,2046
+734,NA,1636
+735,NA,2061
+736,"Cook County, IL",1638
+737,"Coles County, IL",304
+738,"Cook County, IL",65
+739,"Cook County, IL",650
+740,"Lake County, IN",779
+741,"Lake County, IN",690
+742,"Marion County, IN",1397
+743,"Vanderburgh County, IN",55
+744,"Lake County, IN",533
+745,"Clark County, IN",1169
+746,"Lake County, IN",443
+747,"St. Joseph County, IN",1038
+748,"Lake County, IN",1679
+749,"LaPorte County, IN",3
+750,"Lake County, IN",1682
+751,"Jackson County, IN",1485
+752,"Marion County, IN",1693
+753,"Marion County, IN",1824
+754,"Marion County, IN",1251
+755,"Lake County, IN",771
+756,"Marion County, IN",1377
+757,"Bartholomew County, IN",6
+758,"Marion County, IN",1405
+759,"Marion County, IN",7
+760,"St. Joseph County, IN",2021
+761,"Lake County, IN",1755
+762,"Lake County, IN",927
+763,"Marion County, IN",926
+764,"Monroe County, IN",2010
+765,"Marion County, IN",376
+766,"Marion County, IN",377
+767,"St. Joseph County, IN",1041
+768,"Warrick County, IN",683
+769,"Lake County, IN",864
+770,"Hamilton County, IN",232
+771,"Montgomery County, IN",1323
+772,"Lake County, IN",2062
+773,"Wayne County, IN",163
+774,"Morgan County, IN",529
+775,"Marion County, IN",1514
+776,"Lake County, IN",1766
+777,"Vigo County, IN",1623
+778,"Lake County, IN",962
+779,"Lake County, IN",1195
+780,"Polk County, IA",455
+781,"Linn County, IA",350
+782,"Scott County, IA",9
+783,"Scott County, IA",1552
+784,"Polk County, IA",1961
+785,"Polk County, IA",431
+786,"Winnebago County, IA",275
+787,"Delaware County, IA",1024
+788,"Wapello County, IA",1034
+789,"Wapello County, IA",1670
+790,"Scott County, IA",208
+791,"Kossuth County, IA",470
+792,"Clayton County, IA",827
+793,"Polk County, IA",1313
+794,"Butler County, IA",557
+795,"Polk County, IA",2011
+796,"Polk County, IA",205
+797,"Shawnee County, KS",536
+798,"Sedgwick County, KS",1798
+799,"Finney County, KS",1635
+800,"Wyandotte County, KS",1710
+801,"Johnson County, KS",224
+802,"Sedgwick County, KS",1295
+803,"Johnson County, KS",155
+804,"Geary County, KS",1080
+805,"Butler County, KS",360
+806,"Sedgwick County, KS",380
+807,"Wyandotte County, KS",57
+808,"Sedgwick County, KS",1726
+809,"Johnson County, KS",1960
+810,"Wyandotte County, KS",1156
+811,"Johnson County, KS",1010
+812,"Riley County, KS",92
+813,"Johnson County, KS",142
+814,"Shawnee County, KS",54
+815,"Christian County, KY",1431
+816,"Marshall County, KY",270
+817,"Hardin County, KY",687
+818,"Fayette County, KY",254
+819,"Daviess County, KY",1775
+820,"Fayette County, KY",1586
+821,"Carter County, KY",830
+822,"Fayette County, KY",1777
+823,"Jefferson County, KY",1614
+824,"Kenton County, KY",856
+825,"Carter County, KY",1102
+826,"Jefferson County, KY",176
+827,"Jefferson County, KY",429
+828,"Hardin County, KY",247
+829,"Jefferson County, KY",1889
+830,"Boone County, KY",1036
+831,"Jefferson County, KY",1667
+832,"Harlan County, KY",164
+833,"Fayette County, KY",303
+834,"Clark County, KY",1009
+835,"Logan County, KY",1935
+836,NA,955
+837,"Jackson County, KY",1192
+838,"Jefferson County, KY",1320
+839,"Lafayette Parish, LA",388
+840,"East Baton Rouge Parish, LA",326
+841,"Lincoln Parish, LA",1234
+842,"Orleans Parish, LA",1084
+843,"Lafourche Parish, LA",559
+844,"Caddo Parish, LA",154
+845,"Caddo Parish, LA",19
+846,"Tangipahoa Parish, LA",2043
+847,"East Baton Rouge Parish, LA",1208
+848,"Orleans Parish, LA",882
+849,"Orleans Parish, LA",1408
+850,"Caddo Parish, LA",549
+851,"Ouachita Parish, LA",18
+852,"Orleans Parish, LA",1362
+853,"St. Tammany Parish, LA",1274
+854,NA,1134
+855,NA,1133
+856,"Orleans Parish, LA",2059
+857,"St. Tammany Parish, LA",1167
+858,"St. Landry Parish, LA",29
+859,NA,1128
+860,"Iberia Parish, LA",1373
+861,"East Feliciana Parish, LA",1317
+862,"Caddo Parish, LA",1308
+863,"East Baton Rouge Parish, LA",916
+864,"Orleans Parish, LA",1164
+865,"Ascension Parish, LA",1300
+866,"Orleans Parish, LA",1139
+867,"East Baton Rouge Parish, LA",462
+868,"Orleans Parish, LA",272
+869,"Calcasieu Parish, LA",319
+870,NA,278
+871,"Ouachita Parish, LA",1934
+872,"Madison Parish, LA",450
+873,"Caddo Parish, LA",1186
+874,"Acadia Parish, LA",80
+875,"Caddo Parish, LA",795
+876,"Jefferson Parish, LA",617
+877,"St. Charles Parish, LA",1479
+878,"Union Parish, LA",809
+879,"Calcasieu Parish, LA",766
+880,"Orleans Parish, LA",841
+881,"Ascension Parish, LA",1516
+882,"St. Martin Parish, LA",791
+883,"Orleans Parish, LA",1660
+884,"Caddo Parish, LA",742
+885,"Madison Parish, LA",609
+886,NA,823
+887,NA,754
+888,"St. John the Baptist Parish, LA",748
+889,"Orleans Parish, LA",822
+890,NA,50
+891,"St. Martin Parish, LA",1652
+892,"Terrebonne Parish, LA",1733
+893,"Orleans Parish, LA",780
+894,"Orleans Parish, LA",79
+895,"Ouachita Parish, LA",861
+896,"Cumberland County, ME",1846
+897,"Cumberland County, ME",1812
+898,"Kennebec County, ME",420
+899,NA,598
+900,"Cumberland County, ME",476
+901,"Baltimore City County, MD",1324
+902,"Montgomery County, MD",1924
+903,"Baltimore City County, MD",1275
+904,"Baltimore City County, MD",1330
+905,"Carroll County, MD",815
+906,"Baltimore County, MD",1938
+907,NA,436
+908,"Prince George's County, MD",364
+909,"Prince George's County, MD",75
+910,"Baltimore City County, MD",1327
+911,"Baltimore City County, MD",1525
+912,"Baltimore City County, MD",1871
+913,"Baltimore City County, MD",1521
+914,"Baltimore City County, MD",1285
+915,"Baltimore County, MD",172
+916,"Baltimore City County, MD",774
+917,NA,1298
+918,NA,802
+919,"Baltimore City County, MD",1478
+920,"Frederick County, MD",413
+921,"Prince George's County, MD",1045
+922,"Baltimore City County, MD",192
+923,NA,249
+924,"Baltimore County, MD",787
+925,"Prince George's County, MD",1949
+926,"Prince George's County, MD",1964
+927,"Baltimore City County, MD",872
+928,"Montgomery County, MD",1927
+929,"Baltimore City County, MD",1974
+930,"Baltimore City County, MD",1321
+931,"Baltimore City County, MD",1522
+932,"Charles County, MD",406
+933,"Harford County, MD",1369
+934,"Baltimore City County, MD",1527
+935,"Baltimore City County, MD",1205
+936,"Baltimore City County, MD",1380
+937,"Baltimore City County, MD",1207
+938,"Baltimore City County, MD",855
+939,"Baltimore City County, MD",1394
+940,"Baltimore City County, MD",1344
+941,"Baltimore City County, MD",842
+942,"Baltimore City County, MD",147
+943,"Anne Arundel County, MD",725
+944,"Prince George's County, MD",1647
+945,"Prince George's County, MD",838
+946,"Baltimore City County, MD",669
+947,"Baltimore City County, MD",1403
+948,"Baltimore City County, MD",1803
+949,"Prince George's County, MD",868
+950,"Montgomery County, MD",1640
+951,"Baltimore City County, MD",1357
+952,"Baltimore City County, MD",1530
+953,"Baltimore City County, MD",1531
+954,"Prince George's County, MD",265
+955,"Baltimore City County, MD",1532
+956,"Baltimore County, MD",504
+957,"Allegany County, MD",1451
+958,"Baltimore City County, MD",97
+959,"Harford County, MD",220
+960,"Baltimore City County, MD",71
+961,"Baltimore County, MD",1815
+962,"Howard County, MD",1704
+963,"Bristol County, MA",1089
+964,"Suffolk County, MA",816
+965,NA,1407
+966,"Essex County, MA",777
+967,"Suffolk County, MA",1973
+968,NA,1144
+969,NA,1363
+970,NA,720
+971,NA,1947
+972,"Middlesex County, MA",81
+973,"Essex County, MA",2004
+974,"Norfolk County, MA",1420
+975,"Essex County, MA",1762
+976,NA,1432
+977,"Suffolk County, MA",1294
+978,"Essex County, MA",134
+979,NA,359
+980,"Middlesex County, MA",1672
+981,"Essex County, MA",1094
+982,"Kent County, MI",1568
+983,"Monroe County, MI",2063
+984,"Monroe County, MI",632
+985,"Kent County, MI",419
+986,"Monroe County, MI",689
+987,"Oakland County, MI",730
+988,"Livingston County, MI",239
+989,"Monroe County, MI",712
+990,"Saginaw County, MI",731
+991,"Monroe County, MI",2
+992,"Monroe County, MI",1253
+993,"Saginaw County, MI",727
+994,"Monroe County, MI",1260
+995,"Monroe County, MI",718
+996,NA,2017
+997,"Wayne County, MI",1645
+998,"Monroe County, MI",352
+999,"Monroe County, MI",1229
+1000,"Monroe County, MI",1221
+1001,"Ingham County, MI",295
+1002,"Wayne County, MI",2007
+1003,"Muskegon County, MI",374
+1004,NA,1539
+1005,"Monroe County, MI",1217
+1006,"Bay County, MI",336
+1007,"Jackson County, MI",244
+1008,"Midland County, MI",643
+1009,"Washtenaw County, MI",1062
+1010,"Kent County, MI",2044
+1011,"Monroe County, MI",1551
+1012,"Kent County, MI",1648
+1013,"Monroe County, MI",1054
+1014,"Monroe County, MI",1244
+1015,"Monroe County, MI",656
+1016,"Genesee County, MI",400
+1017,"Monroe County, MI",1114
+1018,"Ingham County, MI",1959
+1019,"Monroe County, MI",1115
+1020,"Saginaw County, MI",1512
+1021,"Oakland County, MI",1508
+1022,"Monroe County, MI",1113
+1023,"Monroe County, MI",444
+1024,"Oceana County, MI",170
+1025,"Kalamazoo County, MI",1844
+1026,"Monroe County, MI",540
+1027,"Oakland County, MI",1877
+1028,"Monroe County, MI",1316
+1029,"Monroe County, MI",1465
+1030,"Kent County, MI",1699
+1031,"Monroe County, MI",833
+1032,"Monroe County, MI",602
+1033,"Monroe County, MI",1449
+1034,"Monroe County, MI",971
+1035,"Monroe County, MI",178
+1036,"Calhoun County, MI",183
+1037,"Genesee County, MI",280
+1038,"Wayne County, MI",490
+1039,"Wayne County, MI",1326
+1040,"Monroe County, MI",493
+1041,"Monroe County, MI",1350
+1042,"Monroe County, MI",495
+1043,"Monroe County, MI",1331
+1044,"Monroe County, MI",1347
+1045,"Osceola County, MI",952
+1046,"Branch County, MI",948
+1047,"Genesee County, MI",518
+1048,"Monroe County, MI",1304
+1049,"Monroe County, MI",1309
+1050,"Tuscola County, MI",851
+1051,"Monroe County, MI",871
+1052,"Monroe County, MI",569
+1053,NA,116
+1054,"Monroe County, MI",1015
+1055,"Monroe County, MI",1014
+1056,"Kent County, MI",211
+1057,"Livingston County, MI",42
+1058,"Monroe County, MI",1284
+1059,NA,575
+1060,NA,451
+1061,"Monroe County, MI",1455
+1062,"Oakland County, MI",1765
+1063,NA,852
+1064,"Genesee County, MI",895
+1065,"Ingham County, MI",1429
+1066,"Monroe County, MI",1303
+1067,"Monroe County, MI",1426
+1068,"Wayne County, MI",268
+1069,"Hennepin County, MN",1763
+1070,"Carlton County, MN",1600
+1071,"Ramsey County, MN",325
+1072,"Hennepin County, MN",148
+1073,"Hennepin County, MN",1653
+1074,"Hennepin County, MN",881
+1075,"Marshall County, MN",1096
+1076,"Scott County, MN",1612
+1077,"Rice County, MN",587
+1078,"Ramsey County, MN",335
+1079,"Hennepin County, MN",1534
+1080,"Ramsey County, MN",264
+1081,"Stearns County, MN",813
+1082,"Hennepin County, MN",1931
+1083,"Beltrami County, MN",753
+1084,"Hennepin County, MN",1941
+1085,"Hennepin County, MN",1688
+1086,"Hennepin County, MN",1494
+1087,"Ramsey County, MN",1694
+1088,"Ramsey County, MN",414
+1089,"Pearl River County, MS",1374
+1090,"Humphreys County, MS",1158
+1091,NA,139
+1092,NA,1950
+1093,"Hinds County, MS",1218
+1094,"Neshoba County, MS",2008
+1095,"Adams County, MS",1855
+1096,"Newton County, MS",1821
+1097,"Jackson County, MS",1982
+1098,"Forrest County, MS",1654
+1099,"Pike County, MS",1396
+1100,"Hinds County, MS",46
+1101,"Hinds County, MS",1222
+1102,"Hinds County, MS",1349
+1103,"Marshall County, MS",2066
+1104,"Washington County, MS",1074
+1105,"Warren County, MS",817
+1106,"Lauderdale County, MS",826
+1107,"Panola County, MS",479
+1108,"Jasper County, MS",1068
+1109,"Rankin County, MS",964
+1110,"Hinds County, MS",977
+1111,"Hinds County, MS",348
+1112,"Lamar County, MS",921
+1113,"Webster County, MS",248
+1114,"Hinds County, MS",849
+1115,"St. Louis City County, MO",1297
+1116,"St. Louis City County, MO",994
+1117,"Jackson County, MO",1887
+1118,"Jackson County, MO",146
+1119,"St. Louis County, MO",2015
+1120,NA,301
+1121,"St. Louis City County, MO",104
+1122,"St. Louis City County, MO",105
+1123,"St. Louis City County, MO",1469
+1124,"St. Louis County, MO",410
+1125,"Jackson County, MO",236
+1126,"St. Louis City County, MO",1402
+1127,"St. Louis City County, MO",1493
+1128,"St. Louis County, MO",1418
+1129,"Jasper County, MO",671
+1130,"St. Louis County, MO",676
+1131,"St. Louis City County, MO",1406
+1132,"Buchanan County, MO",1256
+1133,"Boone County, MO",1569
+1134,"St. Louis City County, MO",1496
+1135,"St. Louis City County, MO",1497
+1136,"Dunklin County, MO",1271
+1137,"St. Louis City County, MO",1436
+1138,NA,1671
+1139,"St. Louis City County, MO",1435
+1140,"St. Louis City County, MO",1338
+1141,"St. Louis City County, MO",157
+1142,NA,245
+1143,"Cooper County, MO",1052
+1144,"St. Louis City County, MO",1463
+1145,"St. Louis City County, MO",1453
+1146,"Jackson County, MO",162
+1147,"St. Louis City County, MO",1448
+1148,"St. Louis City County, MO",49
+1149,"St. Louis City County, MO",1466
+1150,"Douglas County, MO",356
+1151,"St. Louis County, MO",27
+1152,NA,256
+1153,"St. Louis City County, MO",333
+1154,"Clay County, MO",836
+1155,"St. Louis City County, MO",1445
+1156,"St. Louis County, MO",1788
+1157,"St. Louis County, MO",1714
+1158,"Cass County, MO",1345
+1159,"St. Louis City County, MO",981
+1160,"Scott County, MO",437
+1161,"St. Louis City County, MO",1091
+1162,"Silver Bow County, MT",1044
+1163,"Cascade County, MT",1633
+1164,"Fergus County, MT",1262
+1165,"Missoula County, MT",227
+1166,"Cascade County, MT",1314
+1167,"Deer Lodge County, MT",711
+1168,"Cascade County, MT",840
+1169,"Missoula County, MT",251
+1170,"Cascade County, MT",705
+1171,"Douglas County, NE",663
+1172,"Douglas County, NE",1749
+1173,"Lancaster County, NE",1605
+1174,"Douglas County, NE",898
+1175,"Hall County, NE",778
+1176,"Douglas County, NE",16
+1177,"Lancaster County, NE",38
+1178,"Douglas County, NE",316
+1179,"Washington County, NE",397
+1180,"Douglas County, NE",532
+1181,"Scotts Bluff County, NE",1016
+1182,"Clark County, NV",1359
+1183,"Clark County, NV",972
+1184,"Clark County, NV",408
+1185,"Clark County, NV",1354
+1186,"Clark County, NV",1771
+1187,"Clark County, NV",653
+1188,"Washoe County, NV",1515
+1189,"Clark County, NV",910
+1190,"Clark County, NV",201
+1191,"Washoe County, NV",332
+1192,"Clark County, NV",1994
+1193,"Clark County, NV",1929
+1194,"Clark County, NV",1174
+1195,"Washoe County, NV",1597
+1196,"Washoe County, NV",698
+1197,"Clark County, NV",992
+1198,"Washoe County, NV",472
+1199,"Clark County, NV",798
+1200,"Merrimack County, NH",28
+1201,"Hillsborough County, NH",179
+1202,NA,1143
+1203,NA,475
+1204,"Cheshire County, NH",515
+1205,"Merrimack County, NH",1280
+1206,"Belknap County, NH",2040
+1207,"Hillsborough County, NH",430
+1208,"Hudson County, NJ",717
+1209,"Passaic County, NJ",1598
+1210,"Salem County, NJ",1471
+1211,"Essex County, NJ",623
+1212,"Camden County, NJ",1826
+1213,"Atlantic County, NJ",68
+1214,"Essex County, NJ",1822
+1215,"Essex County, NJ",739
+1216,"Passaic County, NJ",1706
+1217,"Essex County, NJ",1816
+1218,"Hudson County, NJ",953
+1219,"Hudson County, NJ",837
+1220,"Essex County, NJ",447
+1221,"Monmouth County, NJ",740
+1222,"Passaic County, NJ",1651
+1223,"Middlesex County, NJ",801
+1224,"Union County, NJ",117
+1225,"Cumberland County, NJ",219
+1226,"Passaic County, NJ",1037
+1227,"Hudson County, NJ",56
+1228,NA,1578
+1229,"Eddy County, NM",1529
+1230,"Santa Fe County, NM",1371
+1231,"Bernalillo County, NM",1917
+1232,"Bernalillo County, NM",25
+1233,"Bernalillo County, NM",1952
+1234,"Dona Ana County, NM",1863
+1235,"San Juan County, NM",285
+1236,"Otero County, NM",487
+1237,"Lea County, NM",1884
+1238,"Chaves County, NM",461
+1239,"Eddy County, NM",1461
+1240,"Bernalillo County, NM",1740
+1241,"Luna County, NM",905
+1242,"Sandoval County, NM",145
+1243,"Bernalillo County, NM",1744
+1244,"Bernalillo County, NM",902
+1245,"Santa Fe County, NM",1903
+1246,NA,1340
+1247,"Rio Arriba County, NM",1965
+1248,"Dona Ana County, NM",59
+1249,"Bernalillo County, NM",1811
+1250,NA,752
+1251,"Cattaraugus County, NY",1473
+1252,NA,1367
+1253,"Nassau County, NY",101
+1254,"Kings County, NY",74
+1255,"Nassau County, NY",1472
+1256,NA,1904
+1257,NA,1392
+1258,"Kings County, NY",1417
+1259,NA,207
+1260,NA,1890
+1261,"Nassau County, NY",1351
+1262,"Monroe County, NY",1897
+1263,"Erie County, NY",1538
+1264,NA,1958
+1265,"Rensselaer County, NY",794
+1266,"Kings County, NY",924
+1267,"Erie County, NY",940
+1268,NA,1365
+1269,"Kings County, NY",1892
+1270,"Westchester County, NY",1939
+1271,"Erie County, NY",1535
+1272,"Kings County, NY",848
+1273,"Erie County, NY",1940
+1274,"Delaware County, NY",928
+1275,"Kings County, NY",699
+1276,"Dutchess County, NY",741
+1277,"Westchester County, NY",1257
+1278,"Greene County, NY",165
+1279,"Fulton County, NY",1677
+1280,NA,1239
+1281,"Fulton County, NY",246
+1282,NA,1691
+1283,"Oneida County, NY",296
+1284,"Kings County, NY",1082
+1285,"Oneida County, NY",616
+1286,"Westchester County, NY",1223
+1287,NA,1705
+1288,"Suffolk County, NY",1100
+1289,"Suffolk County, NY",1104
+1290,"Orange County, NY",1105
+1291,"Albany County, NY",1032
+1292,"Westchester County, NY",1116
+1293,"Monroe County, NY",1724
+1294,"Kings County, NY",263
+1295,"Suffolk County, NY",585
+1296,NA,1130
+1297,"Kings County, NY",1189
+1298,NA,1180
+1299,"Columbia County, NY",1752
+1300,NA,35
+1301,"Suffolk County, NY",1757
+1302,"Ontario County, NY",560
+1303,NA,1136
+1304,"Suffolk County, NY",553
+1305,NA,1799
+1306,"Westchester County, NY",1145
+1307,NA,2030
+1308,"Rockland County, NY",670
+1309,"Kings County, NY",1240
+1310,"Westchester County, NY",1854
+1311,"Kings County, NY",1337
+1312,"Kings County, NY",729
+1313,"Westchester County, NY",1872
+1314,"Nassau County, NY",724
+1315,"Dutchess County, NY",1868
+1316,"Kings County, NY",968
+1317,"Tompkins County, NY",1866
+1318,"Westchester County, NY",975
+1319,"Westchester County, NY",976
+1320,"Kings County, NY",979
+1321,"Monroe County, NY",1619
+1322,"Kings County, NY",114
+1323,"Westchester County, NY",1860
+1324,"Kings County, NY",1001
+1325,"Erie County, NY",1442
+1326,"Mecklenburg County, NC",85
+1327,"Durham County, NC",1840
+1328,"Iredell County, NC",1655
+1329,"Mecklenburg County, NC",806
+1330,"Orange County, NC",508
+1331,"Buncombe County, NC",900
+1332,"Durham County, NC",156
+1333,"Durham County, NC",1827
+1334,"Mecklenburg County, NC",1831
+1335,NA,99
+1336,"Wake County, NC",628
+1337,"Stanly County, NC",428
+1338,"Wake County, NC",627
+1339,"Wilson County, NC",1942
+1340,"Mecklenburg County, NC",1896
+1341,NA,1245
+1342,"Orange County, NC",680
+1343,"Henderson County, NC",1634
+1344,"Cumberland County, NC",658
+1345,"Orange County, NC",947
+1346,"Mecklenburg County, NC",194
+1347,"Macon County, NC",398
+1348,"Forsyth County, NC",478
+1349,"Duplin County, NC",1315
+1350,"Mecklenburg County, NC",484
+1351,"Mecklenburg County, NC",177
+1352,NA,993
+1353,"Gaston County, NC",14
+1354,"Guilford County, NC",283
+1355,NA,387
+1356,"Orange County, NC",695
+1357,"Iredell County, NC",1506
+1358,"Alamance County, NC",1504
+1359,"Durham County, NC",1277
+1360,"Mecklenburg County, NC",1993
+1361,"Brunswick County, NC",1630
+1362,"Mecklenburg County, NC",1214
+1363,"Cumberland County, NC",1270
+1364,"Jones County, NC",664
+1365,"Guilford County, NC",1029
+1366,"Rowan County, NC",1891
+1367,"Cumberland County, NC",1825
+1368,"Mecklenburg County, NC",635
+1369,"Mecklenburg County, NC",299
+1370,"New Hanover County, NC",1754
+1371,"Cumberland County, NC",520
+1372,"Randolph County, NC",586
+1373,"Pitt County, NC",446
+1374,"Mecklenburg County, NC",1175
+1375,"Wake County, NC",1905
+1376,"Rowan County, NC",1911
+1377,"Guilford County, NC",1450
+1378,"Columbus County, NC",1135
+1379,"Cumberland County, NC",556
+1380,"Mecklenburg County, NC",1806
+1381,"Forsyth County, NC",298
+1382,"Cumberland County, NC",565
+1383,"Pasquotank County, NC",1768
+1384,"Robeson County, NC",1719
+1385,"Forsyth County, NC",1718
+1386,"Mecklenburg County, NC",1161
+1387,"Mecklenburg County, NC",210
+1388,"Forsyth County, NC",1782
+1389,"Wake County, NC",570
+1390,"Johnston County, NC",572
+1391,"Cleveland County, NC",812
+1392,"Rowan County, NC",453
+1393,"Mecklenburg County, NC",522
+1394,"Forsyth County, NC",1753
+1395,NA,501
+1396,"Hettinger County, ND",2012
+1397,"Adams County, ND",1830
+1398,"Lucas County, OH",1829
+1399,"Franklin County, OH",1571
+1400,"Hamilton County, OH",1665
+1401,"Summit County, OH",810
+1402,"Franklin County, OH",1737
+1403,"Cuyahoga County, OH",747
+1404,"Franklin County, OH",1664
+1405,"Franklin County, OH",1457
+1406,"Franklin County, OH",1878
+1407,"Cuyahoga County, OH",1562
+1408,"Lucas County, OH",1756
+1409,"Lucas County, OH",77
+1410,NA,230
+1411,"Hamilton County, OH",655
+1412,"Cuyahoga County, OH",1874
+1413,"Franklin County, OH",1642
+1414,"Butler County, OH",1797
+1415,"Franklin County, OH",1793
+1416,"Cuyahoga County, OH",1792
+1417,"Richland County, OH",1548
+1418,"Hamilton County, OH",488
+1419,"Montgomery County, OH",1686
+1420,"Montgomery County, OH",634
+1421,"Cuyahoga County, OH",1817
+1422,"Summit County, OH",1495
+1423,"Mahoning County, OH",685
+1424,"Franklin County, OH",1893
+1425,"Cuyahoga County, OH",223
+1426,"Cuyahoga County, OH",619
+1427,"Franklin County, OH",1915
+1428,"Montgomery County, OH",792
+1429,"Hamilton County, OH",1489
+1430,"Cuyahoga County, OH",1542
+1431,"Franklin County, OH",1584
+1432,"Summit County, OH",1582
+1433,NA,1575
+1434,"Clark County, OH",226
+1435,NA,1500
+1436,"Hamilton County, OH",708
+1437,"Summit County, OH",1510
+1438,"Geauga County, OH",513
+1439,"Stark County, OH",259
+1440,"Franklin County, OH",757
+1441,"Summit County, OH",1523
+1442,"Lake County, OH",605
+1443,"Montgomery County, OH",1468
+1444,"Medina County, OH",1381
+1445,"Clark County, OH",1409
+1446,"Franklin County, OH",1157
+1447,"Hamilton County, OH",883
+1448,NA,885
+1449,"Stark County, OH",886
+1450,"Lucas County, OH",98
+1451,"Columbiana County, OH",893
+1452,"Lake County, OH",1025
+1453,"Lorain County, OH",1382
+1454,"Franklin County, OH",2023
+1455,"Cuyahoga County, OH",1375
+1456,"Mahoning County, OH",2027
+1457,"Hamilton County, OH",347
+1458,"Brown County, OH",1283
+1459,"Montgomery County, OH",1286
+1460,"Lorain County, OH",1360
+1461,"Lucas County, OH",297
+1462,"Franklin County, OH",342
+1463,"Franklin County, OH",1129
+1464,"Cuyahoga County, OH",405
+1465,"Franklin County, OH",2049
+1466,"Mercer County, OH",1302
+1467,"Hamilton County, OH",1181
+1468,"Richland County, OH",1334
+1469,"Cuyahoga County, OH",1310
+1470,"Lawrence County, OH",1967
+1471,"Logan County, OH",328
+1472,"Richland County, OH",1969
+1473,"Montgomery County, OH",966
+1474,"Cuyahoga County, OH",12
+1475,"Franklin County, OH",167
+1476,"Franklin County, OH",306
+1477,"Cuyahoga County, OH",860
+1478,"Franklin County, OH",445
+1479,"Franklin County, OH",355
+1480,"Butler County, OH",369
+1481,"Cuyahoga County, OH",10
+1482,"Allen County, OH",287
+1483,NA,452
+1484,"Tulsa County, OK",320
+1485,"Tulsa County, OK",1528
+1486,"Cleveland County, OK",1603
+1487,"Carter County, OK",1948
+1488,"Pawnee County, OK",1673
+1489,"Muskogee County, OK",904
+1490,"Tulsa County, OK",315
+1491,"Oklahoma County, OK",1462
+1492,"Tulsa County, OK",353
+1493,"Stephens County, OK",1843
+1494,"Choctaw County, OK",892
+1495,"Oklahoma County, OK",804
+1496,"Tulsa County, OK",829
+1497,"Oklahoma County, OK",963
+1498,"Cleveland County, OK",580
+1499,"Delaware County, OK",1643
+1500,"Oklahoma County, OK",1132
+1501,"Payne County, OK",502
+1502,"Tulsa County, OK",1841
+1503,"Multnomah County, OR",2003
+1504,"Lane County, OR",1361
+1505,"Marion County, OR",1669
+1506,"Multnomah County, OR",1685
+1507,"Multnomah County, OR",521
+1508,"Multnomah County, OR",1913
+1509,"Multnomah County, OR",187
+1510,"Yamhill County, OR",389
+1511,"Douglas County, OR",700
+1512,"Multnomah County, OR",1734
+1513,"Multnomah County, OR",1587
+1514,"Lane County, OR",937
+1515,"Multnomah County, OR",1850
+1516,"Lane County, OR",159
+1517,"Multnomah County, OR",229
+1518,"Multnomah County, OR",123
+1519,"Marion County, OR",2013
+1520,"Multnomah County, OR",422
+1521,"Multnomah County, OR",1252
+1522,"Crook County, OR",648
+1523,"Multnomah County, OR",636
+1524,"Multnomah County, OR",438
+1525,"Deschutes County, OR",454
+1526,"Linn County, OR",1030
+1527,"York County, PA",702
+1528,"Northampton County, PA",660
+1529,"Montgomery County, PA",1085
+1530,NA,1237
+1531,"Luzerne County, PA",1305
+1532,"Crawford County, PA",1235
+1533,"Erie County, PA",574
+1534,"Washington County, PA",659
+1535,"Erie County, PA",2001
+1536,"Philadelphia County, PA",1976
+1537,"Delaware County, PA",371
+1538,"Philadelphia County, PA",582
+1539,"Philadelphia County, PA",984
+1540,"Lehigh County, PA",118
+1541,"York County, PA",1035
+1542,"Philadelphia County, PA",166
+1543,"Lancaster County, PA",1716
+1544,"Philadelphia County, PA",1997
+1545,NA,661
+1546,"Philadelphia County, PA",1279
+1547,"Philadelphia County, PA",1849
+1548,"Philadelphia County, PA",1715
+1549,"Chester County, PA",1616
+1550,"Philadelphia County, PA",652
+1551,"McKean County, PA",1613
+1552,"Mercer County, PA",1722
+1553,"Westmoreland County, PA",2025
+1554,"Philadelphia County, PA",375
+1555,"Allegheny County, PA",701
+1556,"Delaware County, PA",1847
+1557,"Allegheny County, PA",1858
+1558,"Philadelphia County, PA",1835
+1559,"Northampton County, PA",692
+1560,"Philadelphia County, PA",1828
+1561,"Erie County, PA",1000
+1562,"Bucks County, PA",1592
+1563,"York County, PA",349
+1564,NA,1590
+1565,NA,672
+1566,"Dauphin County, PA",1627
+1567,"Philadelphia County, PA",1853
+1568,"Allegheny County, PA",1566
+1569,"Allegheny County, PA",1185
+1570,"Indiana County, PA",300
+1571,"Delaware County, PA",1933
+1572,"Philadelphia County, PA",86
+1573,"Luzerne County, PA",1411
+1574,"Philadelphia County, PA",793
+1575,"Philadelphia County, PA",2051
+1576,"Philadelphia County, PA",459
+1577,"Dauphin County, PA",1760
+1578,"Lancaster County, PA",460
+1579,NA,322
+1580,"Delaware County, PA",897
+1581,"Philadelphia County, PA",1795
+1582,"Philadelphia County, PA",103
+1583,"Philadelphia County, PA",267
+1584,"Allegheny County, PA",421
+1585,"Allegheny County, PA",756
+1586,"Delaware County, PA",1809
+1587,"Philadelphia County, PA",908
+1588,"Philadelphia County, PA",929
+1589,"Philadelphia County, PA",1372
+1590,"Allegheny County, PA",468
+1591,"Westmoreland County, PA",1537
+1592,NA,764
+1593,"Cumberland County, PA",107
+1594,"Dauphin County, PA",1540
+1595,"Berks County, PA",847
+1596,"Lawrence County, PA",22
+1597,"Allegheny County, PA",1922
+1598,"York County, PA",820
+1599,"Cambria County, PA",819
+1600,"Cambria County, PA",1333
+1601,"Tioga County, PA",818
+1602,"Crawford County, PA",1907
+1603,"Philadelphia County, PA",1926
+1604,NA,745
+1605,NA,550
+1606,"Philadelphia County, PA",1422
+1607,"Bucks County, PA",94
+1608,"Lycoming County, PA",867
+1609,"Westmoreland County, PA",95
+1610,"Philadelphia County, PA",1545
+1611,NA,1544
+1612,"Philadelphia County, PA",193
+1613,"Erie County, PA",944
+1614,"Philadelphia County, PA",1784
+1615,"Providence County, RI",206
+1616,NA,629
+1617,"Providence County, RI",507
+1618,NA,1230
+1619,"Providence County, RI",1182
+1620,"Providence County, RI",1611
+1621,"Providence County, RI",1987
+1622,"Lexington County, SC",1909
+1623,"Richland County, SC",1059
+1624,"Charleston County, SC",1475
+1625,"Richland County, SC",1902
+1626,"Dorchester County, SC",584
+1627,"Anderson County, SC",1301
+1628,"Horry County, SC",552
+1629,"Greenwood County, SC",1700
+1630,"Horry County, SC",175
+1631,"York County, SC",1581
+1632,"Charleston County, SC",1049
+1633,"Richland County, SC",1698
+1634,"Charleston County, SC",1477
+1635,"Horry County, SC",539
+1636,"Chesterfield County, SC",1662
+1637,"Aiken County, SC",93
+1638,NA,1790
+1639,"Greenwood County, SC",1910
+1640,"Darlington County, SC",1745
+1641,"Spartanburg County, SC",1053
+1642,"Charleston County, SC",1908
+1643,"Horry County, SC",638
+1644,"Anderson County, SC",1162
+1645,"Orangeburg County, SC",1746
+1646,"Calhoun County, SC",1857
+1647,"Aiken County, SC",327
+1648,"Orangeburg County, SC",1
+1649,NA,346
+1650,"Greenwood County, SC",1211
+1651,"Greenville County, SC",1995
+1652,"Jasper County, SC",415
+1653,"Chesterfield County, SC",1879
+1654,"Anderson County, SC",1216
+1655,"Barnwell County, SC",1006
+1656,"Beaufort County, SC",770
+1657,"Greenville County, SC",361
+1658,"Chester County, SC",1183
+1659,"Spartanburg County, SC",1142
+1660,"Florence County, SC",313
+1661,"Berkeley County, SC",2054
+1662,"Beaufort County, SC",626
+1663,"Dorchester County, SC",41
+1664,"Richland County, SC",693
+1665,"Georgetown County, SC",1867
+1666,"York County, SC",1160
+1667,"Minnehaha County, SD",566
+1668,"Day County, SD",241
+1669,"Brule County, SD",190
+1670,NA,911
+1671,"Lincoln County, SD",386
+1672,"Rutherford County, TN",2042
+1673,"Shelby County, TN",618
+1674,"Hamilton County, TN",2048
+1675,"Shelby County, TN",614
+1676,"Shelby County, TN",613
+1677,"Shelby County, TN",34
+1678,"Hickman County, TN",1177
+1679,"Sullivan County, TN",541
+1680,"Rutherford County, TN",1761
+1681,"Davidson County, TN",262
+1682,"Shelby County, TN",1703
+1683,"Knox County, TN",606
+1684,"Knox County, TN",546
+1685,"Shelby County, TN",1819
+1686,"Shelby County, TN",150
+1687,"Rutherford County, TN",1789
+1688,"Shelby County, TN",152
+1689,"Davidson County, TN",1440
+1690,"Knox County, TN",1787
+1691,"Lincoln County, TN",939
+1692,"Davidson County, TN",759
+1693,"Shelby County, TN",1364
+1694,"Wayne County, TN",240
+1695,"Madison County, TN",290
+1696,"Shelby County, TN",751
+1697,"Shelby County, TN",750
+1698,"Giles County, TN",1002
+1699,"Shelby County, TN",998
+1700,"Gibson County, TN",1882
+1701,"Shelby County, TN",1689
+1702,"Roane County, TN",21
+1703,"Davidson County, TN",182
+1704,"Shelby County, TN",1971
+1705,"Montgomery County, TN",482
+1706,"Shelby County, TN",480
+1707,NA,723
+1708,"Haywood County, TN",186
+1709,"Davidson County, TN",109
+1710,"Jefferson County, TN",735
+1711,"Davidson County, TN",1554
+1712,"Rutherford County, TN",1341
+1713,"Shelby County, TN",1550
+1714,"Davidson County, TN",1549
+1715,"Marion County, TN",1570
+1716,"Stewart County, TN",760
+1717,"Shelby County, TN",678
+1718,"Shelby County, TN",1631
+1719,"Hardin County, TN",651
+1720,"Hamilton County, TN",641
+1721,"Davidson County, TN",1267
+1722,"Knox County, TN",1663
+1723,"Davidson County, TN",1040
+1724,"Davidson County, TN",1427
+1725,"Hawkins County, TN",1483
+1726,"Shelby County, TN",225
+1727,"Shelby County, TN",506
+1728,"Cheatham County, TN",1629
+1729,"Knox County, TN",1656
+1730,"Shelby County, TN",1991
+1731,"Shelby County, TN",782
+1732,"Davidson County, TN",218
+1733,"Knox County, TN",1681
+1734,"Maury County, TN",1684
+1735,"Shelby County, TN",426
+1736,"Madison County, TN",464
+1737,"Knox County, TN",667
+1738,"Shelby County, TN",1011
+1739,"Shelby County, TN",202
+1740,"Harris County, TX",1919
+1741,"Harris County, TX",1881
+1742,"Jasper County, TX",318
+1743,"Guadalupe County, TX",409
+1744,"Harris County, TX",1925
+1745,"Uvalde County, TX",2052
+1746,"Kaufman County, TX",24
+1747,"Harris County, TX",526
+1748,"Harris County, TX",20
+1749,"Harris County, TX",528
+1750,"Tarrant County, TX",2056
+1751,"Harris County, TX",1955
+1752,"Liberty County, TX",1906
+1753,"Travis County, TX",473
+1754,"Dallas County, TX",366
+1755,"McLennan County, TX",401
+1756,"Anderson County, TX",370
+1757,"Tarrant County, TX",1834
+1758,"Chambers County, TX",1837
+1759,"Bexar County, TX",2020
+1760,"Tarrant County, TX",1998
+1761,"Brewster County, TX",351
+1762,"Bexar County, TX",384
+1763,"Harris County, TX",31
+1764,"Harris County, TX",1823
+1765,"Harris County, TX",516
+1766,"Harris County, TX",499
+1767,"Dallas County, TX",281
+1768,"Cameron County, TX",517
+1769,"Harris County, TX",1962
+1770,"Harris County, TX",282
+1771,"Rockwall County, TX",1990
+1772,"Hidalgo County, TX",519
+1773,"Tarrant County, TX",344
+1774,"Bexar County, TX",385
+1775,"Harris County, TX",2032
+1776,"Dallas County, TX",1986
+1777,"Limestone County, TX",2037
+1778,"Angelina County, TX",33
+1779,"Fort Bend County, TX",391
+1780,"Dallas County, TX",1862
+1781,"Wise County, TX",392
+1782,"Bexar County, TX",393
+1783,"Bexar County, TX",395
+1784,"Bell County, TX",489
+1785,"Dallas County, TX",394
+1786,"Harris County, TX",1151
+1787,"Travis County, TX",1423
+1788,"Jefferson County, TX",1204
+1789,"Harris County, TX",1118
+1790,"Tarrant County, TX",89
+1791,"Harris County, TX",1470
+1792,NA,807
+1793,NA,1111
+1794,"Tarrant County, TX",1454
+1795,"Dallas County, TX",821
+1796,"Kaufman County, TX",834
+1797,"Potter County, TX",1444
+1798,"Bexar County, TX",839
+1799,NA,1441
+1800,NA,846
+1801,"Galveston County, TX",850
+1802,"Tarrant County, TX",858
+1803,"Harris County, TX",796
+1804,"Harris County, TX",82
+1805,"Harris County, TX",788
+1806,"Dallas County, TX",228
+1807,"Harris County, TX",149
+1808,"Bexar County, TX",721
+1809,"Dallas County, TX",72
+1810,"Galveston County, TX",234
+1811,"El Paso County, TX",1556
+1812,"Potter County, TX",1120
+1813,"Dallas County, TX",1543
+1814,"Dallas County, TX",1213
+1815,"Lubbock County, TX",1536
+1816,"Van Zandt County, TX",749
+1817,"Andrews County, TX",231
+1818,"Dallas County, TX",758
+1819,"Fort Bend County, TX",765
+1820,"Taylor County, TX",1201
+1821,"Harris County, TX",1513
+1822,"Harris County, TX",1511
+1823,"Dallas County, TX",746
+1824,"Ellis County, TX",859
+1825,"Dallas County, TX",1425
+1826,"Dallas County, TX",1086
+1827,"Webb County, TX",1012
+1828,"Harris County, TX",1346
+1829,"Coleman County, TX",1343
+1830,"Denton County, TX",191
+1831,"Dallas County, TX",1336
+1832,"Bell County, TX",1329
+1833,"Dallas County, TX",961
+1834,"Harris County, TX",1366
+1835,NA,1287
+1836,"Harris County, TX",1312
+1837,"Harris County, TX",1307
+1838,"Tarrant County, TX",1306
+1839,"Harris County, TX",1288
+1840,"Tarrant County, TX",1296
+1841,"Harris County, TX",1292
+1842,"Dallas County, TX",1290
+1843,"Harris County, TX",1319
+1844,"Brazoria County, TX",710
+1845,"Tarrant County, TX",923
+1846,"Dallas County, TX",1263
+1847,"Travis County, TX",1227
+1848,"Harris County, TX",863
+1849,"Dallas County, TX",1079
+1850,"Travis County, TX",1233
+1851,"Houston County, TX",1060
+1852,"Harris County, TX",1238
+1853,"Tarrant County, TX",1410
+1854,"Dallas County, TX",169
+1855,"Denton County, TX",879
+1856,"Bexar County, TX",1242
+1857,"Gregg County, TX",1398
+1858,"Dallas County, TX",1395
+1859,"Travis County, TX",1046
+1860,"El Paso County, TX",1255
+1861,"Tarrant County, TX",1384
+1862,"Galveston County, TX",906
+1863,"Denton County, TX",1404
+1864,"Dallas County, TX",1572
+1865,"Harris County, TX",1517
+1866,"Harris County, TX",1137
+1867,"Jefferson County, TX",647
+1868,"Hunt County, TX",642
+1869,"Harris County, TX",133
+1870,"Taylor County, TX",1666
+1871,"Dallas County, TX",1170
+1872,NA,633
+1873,"Dallas County, TX",1165
+1874,"Starr County, TX",631
+1875,"Webb County, TX",630
+1876,"Dallas County, TX",1184
+1877,"Ellis County, TX",271
+1878,"Dallas County, TX",625
+1879,"Bell County, TX",1687
+1880,"Tarrant County, TX",40
+1881,"Dallas County, TX",1179
+1882,"Tarrant County, TX",1709
+1883,"Dallas County, TX",1166
+1884,"Harris County, TX",1711
+1885,"Tarrant County, TX",1176
+1886,"Tarrant County, TX",1717
+1887,"Dallas County, TX",1173
+1888,"Harris County, TX",590
+1889,"Burleson County, TX",1728
+1890,"Dallas County, TX",1168
+1891,"Bexar County, TX",1172
+1892,"El Paso County, TX",1731
+1893,"Dallas County, TX",45
+1894,"Harris County, TX",44
+1895,"Starr County, TX",43
+1896,"Tarrant County, TX",1650
+1897,"El Paso County, TX",1138
+1898,"Harris County, TX",563
+1899,"Tarrant County, TX",1188
+1900,"Dallas County, TX",1140
+1901,"Harris County, TX",696
+1902,"Dallas County, TX",1126
+1903,"Harris County, TX",1148
+1904,"Harris County, TX",668
+1905,"Dallas County, TX",1194
+1906,"Harris County, TX",1625
+1907,"Walker County, TX",1123
+1908,"Harris County, TX",1149
+1909,"Dallas County, TX",1607
+1910,"Dallas County, TX",706
+1911,"Parker County, TX",1632
+1912,"Harris County, TX",1141
+1913,"Harris County, TX",1576
+1914,"Dallas County, TX",1190
+1915,"Travis County, TX",686
+1916,"Tarrant County, TX",677
+1917,"Salt Lake County, UT",1992
+1918,"Utah County, UT",1781
+1919,"Salt Lake County, UT",339
+1920,"Utah County, UT",442
+1921,"Salt Lake County, UT",432
+1922,"Weber County, UT",1557
+1923,"Davis County, UT",334
+1924,"Davis County, UT",1580
+1925,"Salt Lake County, UT",854
+1926,"Salt Lake County, UT",1196
+1927,"Utah County, UT",311
+1928,"Salt Lake County, UT",989
+1929,"Salt Lake County, UT",91
+1930,"Salt Lake County, UT",785
+1931,"Salt Lake County, UT",1202
+1932,"Salt Lake County, UT",1585
+1933,"Washington County, UT",593
+1934,"Washington County, VT",273
+1935,"Chittenden County, VT",1773
+1936,"Chittenden County, VT",682
+1937,"Prince William County, VA",1954
+1938,NA,1805
+1939,"Prince William County, VA",1989
+1940,"Richmond City City (County Equiv), VA",1289
+1941,"Portsmouth City City (County Equiv), VA",171
+1942,"Fairfax County, VA",1353
+1943,NA,1783
+1944,"Fairfax County, VA",1802
+1945,"Henrico County, VA",554
+1946,"Fairfax City City (County Equiv), VA",951
+1947,"Norfolk City City (County Equiv), VA",185
+1948,"Portsmouth City City (County Equiv), VA",543
+1949,"Richmond City City (County Equiv), VA",1004
+1950,NA,184
+1951,"Newport News City City (County Equiv), VA",1796
+1952,"Richmond City City (County Equiv), VA",933
+1953,"Chesapeake city, VA",709
+1954,NA,1093
+1955,"Prince William County, VA",1748
+1956,"Virginia Beach City City (County Equiv), VA",1200
+1957,"Petersburg City City (County Equiv), VA",1533
+1958,"Manassas City City (County Equiv), VA",13
+1959,"Halifax County, VA",5
+1960,"Norfolk City City (County Equiv), VA",1131
+1961,"Richmond City City (County Equiv), VA",1502
+1962,"York County, VA",1637
+1963,"Virginia Beach City City (County Equiv), VA",286
+1964,"Newport News City City (County Equiv), VA",1899
+1965,"Hampton City City (County Equiv), VA",87
+1966,"Richmond City City (County Equiv), VA",1467
+1967,"Prince William County, VA",127
+1968,"Newport News City City (County Equiv), VA",90
+1969,"Roanoke city City (County Equiv), VA",1999
+1970,"Richmond City City (County Equiv), VA",2045
+1971,"Norfolk City City (County Equiv), VA",53
+1972,"Chesapeake city, VA",1946
+1973,NA,1393
+1974,"Williamsburg City City (County Equiv), VA",1400
+1975,"Newport News City City (County Equiv), VA",435
+1976,"Prince William County, VA",2009
+1977,"Manassas City City (County Equiv), VA",2024
+1978,"Prince William County, VA",1820
+1979,"Alexandria city, VA",252
+1980,"Virginia Beach City City (County Equiv), VA",1865
+1981,"Arlington County, VA",1708
+1982,"Prince William County, VA",2047
+1983,"Portsmouth City City (County Equiv), VA",1921
+1984,"Portsmouth City City (County Equiv), VA",250
+1985,"Roanoke city City (County Equiv), VA",1712
+1986,"Roanoke city City (County Equiv), VA",1984
+1987,"Grant County, WA",997
+1988,"King County, WA",1099
+1989,"Skamania County, WA",832
+1990,"Spokane County, WA",814
+1991,NA,789
+1992,"Spokane County, WA",767
+1993,"King County, WA",1880
+1994,"Pierce County, WA",1579
+1995,"Clark County, WA",64
+1996,"Yakima County, WA",1615
+1997,"Spokane County, WA",1639
+1998,"Pierce County, WA",657
+1999,"Yakima County, WA",1659
+2000,"Kitsap County, WA",514
+2001,"Cowlitz County, WA",608
+2002,"King County, WA",607
+2003,"Pierce County, WA",258
+2004,"Benton County, WA",48
+2005,"King County, WA",1730
+2006,"King County, WA",523
+2007,"Snohomish County, WA",525
+2008,"Snohomish County, WA",277
+2009,"King County, WA",1774
+2010,"King County, WA",276
+2011,"Pierce County, WA",544
+2012,"Yakima County, WA",36
+2013,"Grant County, WA",862
+2014,"Pierce County, WA",1087
+2015,"Yakima County, WA",221
+2016,"Spokane County, WA",305
+2017,"King County, WA",168
+2018,"Snohomish County, WA",199
+2019,"King County, WA",1048
+2020,"King County, WA",2005
+2021,"King County, WA",1055
+2022,"King County, WA",887
+2023,"Pierce County, WA",1023
+2024,"King County, WA",1020
+2025,"Snohomish County, WA",424
+2026,"Lewis County, WA",936
+2027,"Yakima County, WA",1945
+2028,"Thurston County, WA",407
+2029,"Pierce County, WA",1282
+2030,"King County, WA",866
+2031,"Yakima County, WA",1972
+2032,"Snohomish County, WA",441
+2033,"Jackson County, WV",2002
+2034,"Putnam County, WV",222
+2035,"Kanawha County, WV",1430
+2036,NA,907
+2037,"Berkeley County, WV",1668
+2038,"Sheboygan County, WI",561
+2039,"Milwaukee County, WI",135
+2040,"Fond du Lac County, WI",946
+2041,"Racine County, WI",1970
+2042,"Milwaukee County, WI",312
+2043,"Dane County, WI",1780
+2044,"Milwaukee County, WI",418
+2045,"Columbia County, WI",942
+2046,"Milwaukee County, WI",2055
+2047,"Rock County, WI",1928
+2048,"Milwaukee County, WI",2016
+2049,"Marinette County, WI",535
+2050,"Milwaukee County, WI",1219
+2051,"Milwaukee County, WI",1066
+2052,"Langlade County, WI",367
+2053,"Kenosha County, WI",1985
+2054,"Milwaukee County, WI",1900
+2055,"Milwaukee County, WI",1412
+2056,"Milwaukee County, WI",439
+2057,"Milwaukee County, WI",1932
+2058,"Milwaukee County, WI",715
+2059,"Waukesha County, WI",62
+2060,"Richland County, WI",673
+2061,"Winnebago County, WI",61
+2062,"Outagamie County, WI",1546
+2063,"Dane County, WI",60
+2064,"Lincoln County, WY",1268
+2065,"Sheridan County, WY",1076
