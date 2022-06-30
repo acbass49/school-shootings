@@ -1,0 +1,6 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+county_level_data_raw/age.csv
+.DS_Store
