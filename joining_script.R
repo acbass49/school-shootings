@@ -149,15 +149,25 @@ intermediate_df <- age_df %>%
 
 gun_df <- read.csv('county_level_data_raw/Gun_Laws.csv')
 
-final_df <- intermediate_df %>% 
+intermediate_df <- intermediate_df %>% 
   left_join(gun_df, by = 'State')
 
-final_df %>% 
-  summarise(across(everything(), function(x) sum(is.na(x)))) %>% 
-  View()
+intermediate_df <- intermediate_df %>% 
+  mutate(across(12:17, function(x) replace(x, is.na(x), mean(x, na.rm = T))))
 
-final_df <- final_df %>% 
-  mutate(across(13:18, function(x) replace(x, is.na(x), mean(x, na.rm = T)))) %>%
-  select(-TOT_POP)
+gun_ownership <- openxlsx::read.xlsx('county_level_data_raw/Gun-Ownership.xlsx', sheet = 2)
+
+final_df <- gun_ownership %>% 
+  filter(Year == 2016) %>% 
+  select(FIP, GSS, PEW, HuntLic, universl, permit) %>% 
+  mutate() %>% 
+  mutate(
+    across(2:3, ~{replace(.x, .x == -9, NA)}),
+    gun_own = ifelse(is.na(GSS), PEW, (GSS + PEW)/2),
+    across(5:6, ~{factor(ifelse(.x == 1, 'yes', 'no'), levels = c('no', 'yes'))})
+  ) %>% 
+  select(STATE = FIP, gun_own, hunt_license = HuntLic, background_checks = universl, gun_permit_law = permit) %>% 
+  right_join(intermediate_df, by = 'STATE')
+  
 
 write.csv(final_df,'Finalized_data/train.csv')
