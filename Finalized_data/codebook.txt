@@ -1,0 +1,29 @@
+STATE = State FIPS
+gun_own = Estimated percentage of gun owners by state. Averaged from the 
+GSS and PEW estimates.
+hunt_license = estimated percent of residents with hunting license
+background_checks = whether state has law for universal background checks
+gun_permit_law = whether state requires a gun permit before gun purchase
+COUNTY = county fips code
+under40 = Percent of county under 40 according to census data
+Male = Percent of county that is male according to census data
+White = Percent of county that is white according to census data
+Black = "" ""
+Asian = "" ""
+Hispanic = "" ""
+State = 2 letter state abbreviation
+CountyName = full county name
+countyFIPS = state fips and county fips combined padded to 5 characters
+Unemployment_rate_2021 = unemployment rate
+Median_Household_Income_2020 = median hh income
+ba_plus = percent of residents with BA+ education
+less_than_hs = "" ""
+hs = "" ""
+some_col = "" ""
+urban_rural = county - level classification of community
+population = population
+n = number reported school shootings in county
+gun_strictness = rating by 538 rating states across 22 different gun laws 
+and giving a gun strictness score where low is less strict and high is 
+more strict.
+
