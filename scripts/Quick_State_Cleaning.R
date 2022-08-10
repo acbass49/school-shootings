@@ -9,6 +9,7 @@ join_me <- join_me %>%
 final <- read.csv('./Finalized_data/state_scores.csv') %>% 
   select(State_fips=STATE, mean) %>% 
   left_join(join_me, by = 'State_fips') %>% 
-  select(FULL, mean)
+  select(FULL, mean) %>% 
+  mutate(mean = mean*100)
 
 write.csv(final,'./Finalized_data/state_scores_final.csv', row.names = F)
