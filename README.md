@@ -2,7 +2,7 @@
 
 Recently, gun violence has taken center stage in national news coverage with Congress recently passing a bipartisan gun bill. This study focuses on deepening our understanding of the types of counties in which gun violence in schools is prevalent. Our report aims to answer questions like: What are the characteristics of a county that are more susceptible to gun violence? Are gun violence incidents concentrated in particular regions in America? If so, which? How do state laws play a role in deterring gun violence in schools? In the end, our motivation is to provide more context, information, and understanding on a major debate in American politics today using predictions from Bayesian regression modeling.
 
-We evaluated several different bayesian poisson regression models, but our final model ended up being a heirarchical zero-inflated poisson regression model. Findings are detailed in our report
+We evaluated several different bayesian poisson regression models, but our final model ended up being a heirarchical zero-inflated poisson regression model. Findings are detailed in our report.
 
 ### Breakdown of repository:
 
