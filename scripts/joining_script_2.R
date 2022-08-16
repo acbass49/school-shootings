@@ -4,24 +4,22 @@
 
 library(tidyverse)
 
-data <- read.csv('webscraping/data_w_county_match_manual.csv')
-
-data <- data[!data$CountyName == '',]
-
-counts_by_fips <- data %>% 
-  group_by(countyFIPS) %>% 
-  summarise(
-    n = n()
-  ) %>% 
+data <- read.csv('webscraping/data_w_county_match_manual.csv') %>% 
   mutate(countyFIPS = stringr::str_pad(countyFIPS, 5, side = 'left', pad = 0))
 
-data <- read.csv('webscraping/county_pop.csv')
-
-base_data <- data %>% 
+data2 <- read.csv('webscraping/county_pop.csv') %>% 
   mutate(countyFIPS = stringr::str_pad(countyFIPS, 5, side = 'left', pad = 0)) %>% 
-  left_join(counts_by_fips, by = 'countyFIPS') %>% 
-  mutate(n = ifelse(is.na(n), 0, n)) %>% 
   filter(CountyName != 'Statewide Unallocated')
+
+base_data <- data  %>% 
+  left_join(data2, by = 'countyFIPS', suffix = c('_main', '_side'))
+
+# counts_by_fips <- data %>% 
+#   group_by(countyFIPS) %>% 
+#   summarise(
+#     n = n()
+#   ) %>% 
+#   mutate(countyFIPS = stringr::str_pad(countyFIPS, 5, side = 'left', pad = 0))
 
 ## Education
 
