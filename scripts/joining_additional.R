@@ -1,25 +1,27 @@
 # Merging data
 # Author : Alex Bass
-# Date : 2022 - 06 - 29
+# Date : 2022 - 08 - 16
 
 library(tidyverse)
 
-data <- read.csv('webscraping/data_w_county_match_manual.csv') %>% 
+data <- read.csv('webscraping/data_w_county_match_manual.csv')
+
+data <- data[!data$CountyName == '',]
+
+counts_by_fips <- data %>% 
+  group_by(countyFIPS) %>% 
+  summarise(
+    n = n()
+  ) %>% 
   mutate(countyFIPS = stringr::str_pad(countyFIPS, 5, side = 'left', pad = 0))
 
-data2 <- read.csv('webscraping/county_pop.csv') %>% 
+data <- read.csv('webscraping/county_pop.csv')
+
+base_data <- data%>% 
   mutate(countyFIPS = stringr::str_pad(countyFIPS, 5, side = 'left', pad = 0)) %>% 
+  left_join(counts_by_fips, by = 'countyFIPS') %>% 
+  mutate(n = ifelse(is.na(n), 0, n)) %>% 
   filter(CountyName != 'Statewide Unallocated')
-
-base_data <- data  %>% 
-  left_join(data2, by = 'countyFIPS', suffix = c('_main', '_side'))
-
-# counts_by_fips <- data %>% 
-#   group_by(countyFIPS) %>% 
-#   summarise(
-#     n = n()
-#   ) %>% 
-#   mutate(countyFIPS = stringr::str_pad(countyFIPS, 5, side = 'left', pad = 0))
 
 ## Education
 
@@ -158,7 +160,6 @@ gun_ownership <- openxlsx::read.xlsx('county_level_data_raw/Gun-Ownership.xlsx',
 final_df <- gun_ownership %>% 
   filter(Year == 2016) %>% 
   select(FIP, GSS, PEW, HuntLic, universl, permit) %>% 
-  mutate() %>% 
   mutate(
     across(2:3, ~{replace(.x, .x == -9, NA)}),
     gun_own = ifelse(is.na(GSS), PEW, (GSS + PEW)/2),
@@ -168,11 +169,11 @@ final_df <- gun_ownership %>%
   right_join(intermediate_df, by = 'STATE')
   
 
-write.csv(final_df,'Finalized_data/train.csv')
+write.csv(final_df,'Finalized_data/new_train.csv')
 
 
 #dropping unnecessary variables
-data <- read.csv('Finalized_data/train.csv')
+data <- read.csv('Finalized_data/new_train.csv')
 
 data <- data %>% 
   select(-c(X, COUNTY, State, CountyName, countyFIPS))
@@ -183,11 +184,11 @@ data$urban_rural <- ifelse(data$urban_rural == 'rural',0, ifelse(
   data$urban_rural == 'suburban',1, 2
 ))
 
-write.csv(data, 'Finalized_data/train.csv', row.names = FALSE)
+write.csv(data, 'Finalized_data/new_train.csv', row.names = FALSE)
 
 
 #doing onehot encoding with 
-data <- read.csv('Finalized_data/train.csv')
+data <- read.csv('Finalized_data/new_train.csv')
 
 data$rural <- ifelse(data$urban_rural == 0, 1, 0)
 data$suburban <- ifelse(data$urban_rural == 1, 1, 0)
@@ -195,4 +196,4 @@ data$urban <- ifelse(data$urban_rural == 2, 1, 0)
 
 data$urban_rural <- NULL
 
-write.csv(data, 'Finalized_data/train.csv', row.names = FALSE)
+write.csv(data, 'Finalized_data/new_train.csv', row.names = FALSE)
