@@ -175,9 +175,6 @@ write.csv(final_df,'Finalized_data/new_train.csv')
 #dropping unnecessary variables
 data <- read.csv('Finalized_data/new_train.csv')
 
-data <- data %>% 
-  select(-c(X, COUNTY, State, CountyName, countyFIPS))
-
 data$background_checks <- ifelse(data$background_checks == 'yes',1, 0)
 data$gun_permit_law <- ifelse(data$gun_permit_law == 'yes',1, 0)
 data$urban_rural <- ifelse(data$urban_rural == 'rural',0, ifelse(
@@ -185,7 +182,6 @@ data$urban_rural <- ifelse(data$urban_rural == 'rural',0, ifelse(
 ))
 
 write.csv(data, 'Finalized_data/new_train.csv', row.names = FALSE)
-
 
 #doing onehot encoding with 
 data <- read.csv('Finalized_data/new_train.csv')
